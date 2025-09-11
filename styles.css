@@ -2,3 +2,7 @@ body{
     color: white;
     background: black;
 }
+
+hader {
+    border-bottom: solid 2px rgb(251, 0, 255, 0.721);
+}
