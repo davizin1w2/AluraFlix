@@ -1,6 +1,7 @@
 body{
     color: white;
     background: black;
+    margin: 0px;
 }
 
 header {
@@ -19,5 +20,5 @@ justify-content: center;
 }
 
 .chamada-texto{
-margin-right: 20px;
+margin-right: 5%;
 }
